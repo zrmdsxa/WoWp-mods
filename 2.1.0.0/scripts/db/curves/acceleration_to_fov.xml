@@ -1,0 +1,14 @@
+<acceleration_to_fov.xml>
+  <name>acceleration_to_fov</name>
+  <cubic>	false	</cubic>
+  <points>
+    <pt>	-122.800000 0.000000	</pt>
+    <pt>	-30.000000 0.000000	</pt>
+    <pt>	-20.000000 0.000000	</pt>
+    <pt>	0.000021 0.000000	</pt>
+    <pt>	7.000000 0.000000	</pt>
+    <pt>	20.000000 0.000000	</pt>
+    <pt>	35.000000 0.000000	</pt>
+    <pt>	100.000000 0.000000	</pt>
+  </points>
+</acceleration_to_fov.xml>

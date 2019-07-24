@@ -1,0 +1,9 @@
+<acceleration_to_camdist_in.xml>
+  <name>acceleration_to_camdist_in</name>
+  <cubic>	false	</cubic>
+  <points>
+    <pt>	-0.325600 1.000000	</pt>
+    <pt>	0.000001 1.000000	</pt>
+    <pt>	1.000000 1.000000	</pt>
+  </points>
+</acceleration_to_camdist_in.xml>

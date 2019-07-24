@@ -1,0 +1,158 @@
+<radarSettings.xml>
+  <minimap>
+    <level>
+     <radius>500</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>12</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>583</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>10</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>666</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>9.09</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>749</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>8.01</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>832</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>7.21</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>916</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>6.55</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>999</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>6</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>1082</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>6</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>1165</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>6</visibilityDistanceKoef>
+   </level>
+   <level>
+     <radius>1249</radius>
+     <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+     <visibilityDistanceKoef>6</visibilityDistanceKoef>
+   </level>
+ </minimap>
+ <minimapRadar>
+  <level>
+   <radius>500</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>6</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>583</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>5.15</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>666</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>4.5</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>749</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>4</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>832</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>3.6</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>916</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>3.28</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>999</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>3</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>1082</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>2.77</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>1165</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>2.58</visibilityDistanceKoef>
+ </level>
+ <level>
+   <radius>1249</radius>
+   <selectTargetDistanceKoef>1.2</selectTargetDistanceKoef>
+   <visibilityDistanceKoef>2.4</visibilityDistanceKoef>
+ </level>
+</minimapRadar>
+<radar>
+  <level>
+    <radius>	500	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	3	</visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	583	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	2.573	</visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	666	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	2.252	</visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	749	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	2.267	</visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	832	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	2.043 </visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	916	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	1.856	</visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	999	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	1.702	</visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	1082	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	1.664	</visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	1165	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	1.545	</visibilityDistanceKoef>
+  </level>
+  <level>
+    <radius>	1249	</radius>
+    <selectTargetDistanceKoef>	2.0	</selectTargetDistanceKoef>
+    <visibilityDistanceKoef>	1.441	</visibilityDistanceKoef>
+  </level>
+</radar>
+</radarSettings.xml>

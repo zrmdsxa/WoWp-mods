@@ -1,0 +1,10 @@
+<acceleration_to_forsage_fov.xml>
+  <name>acceleration_to_forsage_fov</name>
+  <cubic>	false	</cubic>
+  <points>
+    <pt>	-100.000000 0.000000	</pt>
+    <pt>	0.000000 0.000000	</pt>
+    <pt>	20.000000 0.000000	</pt>
+    <pt>	100.000000 0.000000	</pt>
+  </points>
+</acceleration_to_forsage_fov.xml>

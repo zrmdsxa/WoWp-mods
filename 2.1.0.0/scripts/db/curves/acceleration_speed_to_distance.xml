@@ -1,0 +1,9 @@
+<acceleration_speed_to_distance.xml>
+  <name>acceleration_speed_to_distance</name>
+  <cubic>	false	</cubic>
+  <points>
+    <pt>	0.000000 1.000000	</pt>
+    <pt>	2.000000 1.000000	</pt>
+    <pt>	10.000000 1.000000	</pt>
+  </points>
+</acceleration_speed_to_distance.xml>
