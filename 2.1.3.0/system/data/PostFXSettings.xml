@@ -1,0 +1,149 @@
+<postfxsettings.xml>
+<postFX>
+<chain0>
+<heat_haze>off</heat_haze>
+<heat_shimmer>on</heat_shimmer>
+<motion_blur>on</motion_blur>
+<anamorphic_glow>on</anamorphic_glow>
+<lens_flares>on</lens_flares>
+<dirty_lens>on</dirty_lens>
+<screen_particles>on</screen_particles>
+<turrets>on</turrets>
+<constructor>on</constructor>
+<hdr>on</hdr>
+<fxaa>on</fxaa>
+<temporalSuperSampling>off</temporalSuperSampling>
+<film_grain>on</film_grain>
+</chain0>
+<chain1>
+<heat_haze>off</heat_haze>
+<heat_shimmer>on</heat_shimmer>
+<motion_blur>on</motion_blur>
+<anamorphic_glow>on</anamorphic_glow>
+<dirty_lens>on</dirty_lens>
+<screen_particles>on</screen_particles>
+<turrets>on</turrets>
+<constructor>on</constructor>
+<hdr>on</hdr>
+<fxaa>on</fxaa>
+<temporalSuperSampling>off</temporalSuperSampling>
+<film_grain>on</film_grain>
+</chain1>
+<chain2>
+<heat_shimmer>on</heat_shimmer>
+<motion_blur>on</motion_blur>
+<screen_particles>on</screen_particles>
+<turrets>on</turrets>
+<constructor>on</constructor>
+<hdr>on</hdr>
+<fxaa>on</fxaa>
+<temporalSuperSampling>off</temporalSuperSampling>
+<film_grain>on</film_grain>
+</chain2>
+<chain3>
+<motion_blur>on</motion_blur>
+<screen_particles>on</screen_particles>
+<turrets>on</turrets>
+<constructor>on</constructor>
+<hdr>on</hdr>
+<film_grain>on</film_grain>
+</chain3>
+<chain4>
+<screen_particles>on</screen_particles>
+<turrets>on</turrets>
+<constructor>on</constructor>
+<hdr>on</hdr>
+<film_grain>on</film_grain>
+</chain4>
+<effects>
+<anamorphic_glow>
+<glowFactor>4.06</glowFactor>
+<angleShift>28</angleShift>
+<bloomGlowFactor>20</bloomGlowFactor>
+<bloorStrength>3</bloorStrength>
+<blurFactor>3.0</blurFactor>
+<brightnessOffset>0.46</brightnessOffset>
+<brightnessThreshold>0.5</brightnessThreshold>
+<firstStreakRadiusMult>0.5</firstStreakRadiusMult>
+<glowPowerFactor>20</glowPowerFactor>
+<lumScale>1</lumScale>
+<numStreakPairs>2</numStreakPairs>
+<offsetFactor>1.2</offsetFactor>
+<secondStreakRadiusMultipler>0.5</secondStreakRadiusMultipler>
+<streaksGlowFactor>2</streaksGlowFactor>
+<streaksThreshold>0.16</streaksThreshold>
+</anamorphic_glow>
+<dirty_lens>
+<glowPowerFactor>0.5</glowPowerFactor>
+<lens_dust_glow>100 100 100 100</lens_dust_glow>
+<lens_dust_mask>system/maps/postprocess/lens_dust1.dds</lens_dust_mask>
+<lens_dust_power_out>10 7 4 1</lens_dust_power_out>
+<lens_dust_radius_in>0 0 0 0</lens_dust_radius_in>
+<lens_dust_radius_out>1 1 1 1</lens_dust_radius_out>
+<lens_dust_strength>1 1 1 1</lens_dust_strength>
+<lumScale>0</lumScale>
+</dirty_lens>
+<screen_particles></screen_particles>
+<turrets></turrets>
+<constructor></constructor>
+<hdr>
+<colorCorrectMaskIndex>0</colorCorrectMaskIndex>
+<aberrationG>0.8</aberrationG>
+<aberrationPower>1.2</aberrationPower>
+<aberrationStrength>0.1</aberrationStrength>
+<adaptationMax>0.8</adaptationMax>
+<adaptationMin>0.21</adaptationMin>
+<adaptationSpeedDecrease>1.7</adaptationSpeedDecrease>
+<adaptationSpeedIncrease>1.2</adaptationSpeedIncrease>
+<colorCorrectMask>system/maps/postprocess/colour_correct_75_fortes.dds</colorCorrectMask>
+<colorCorrectMask2>system/maps/postprocess/colour_correct_75_fortes_spectrator.dds</colorCorrectMask2>
+<enableAberration>True</enableAberration>
+<enableColourCorrect>True</enableColourCorrect>
+<middleGray>0.6</middleGray>
+<vignetteColor>0.4 0.1 0</vignetteColor>
+<vignettePower>10</vignettePower>
+<vignetteStrength>0.3879</vignetteStrength>
+</hdr>
+<heat_haze>
+<bumpStrength>1.0</bumpStrength>
+<distancePower>0.1</distancePower>
+<mask0Scale>5 10</mask0Scale>
+<mask0Scroll>0.05 0.1</mask0Scroll>
+<mask1Scale>10 20</mask1Scale>
+<mask1Scroll>-0.05 -0.1</mask1Scroll>
+<maxAltitude>20</maxAltitude>
+<maxRange>100</maxRange>
+<minRange>4</minRange>
+<offsetMap>system/maps/post_processing/distortion.dds</offsetMap>
+</heat_haze>
+<heat_shimmer>
+<bumpStrength>2.0</bumpStrength>
+<mask0Scale>20 20</mask0Scale>
+<mask0Scroll>15 15</mask0Scroll>
+<mask1Scale>20 20</mask1Scale>
+<mask1Scroll>-15 -15</mask1Scroll>
+<offsetMap>system/maps/post_processing/distortion.dds</offsetMap>
+<testFillStrength>0</testFillStrength>
+</heat_shimmer>
+<lens_flares>
+<brightPassScale>0.5</brightPassScale>
+</lens_flares>
+<motion_blur>
+<strength>0.2</strength>
+<nSamples>20 15 10 8</nSamples>
+</motion_blur>
+<fxaa></fxaa>
+<temporalSuperSampling></temporalSuperSampling>
+<film_grain>
+<horStrokes>0.0</horStrokes>
+<blink>0.01</blink>
+<brightness>1.15</brightness>
+<darkNoise>0.28</darkNoise>
+<horStrokesScale>0</horStrokesScale>
+<noiseMask>system/maps/film_grain.dds</noiseMask>
+<scale>8.00 8.00</scale>
+<whiteNoise>0.01</whiteNoise>
+</film_grain>
+</effects>
+</postFX>
+</postfxsettings.xml>

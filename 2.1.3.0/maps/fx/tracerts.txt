@@ -1,0 +1,8 @@
+A: 7.92,20 turret, high aa, low aa
+B: 20mm
+C: 7.92mm
+D: 30mm
+E
+F
+G
+H
