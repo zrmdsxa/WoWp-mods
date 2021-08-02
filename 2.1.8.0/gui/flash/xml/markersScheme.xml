@@ -1,0 +1,1072 @@
+<config>
+	<avatars>
+		<simple>
+			<default>
+				<enemy>
+					<veryfar>
+						<icon>S</icon>
+						<pbar>small</pbar>
+						<command />
+						<distance />
+						<playerName />
+						<planeName />
+					</veryfar>
+					<far>
+						<icon>S</icon>
+						<pbar>small</pbar>
+						<command />
+						<distance />
+						<playerName />
+						<planeName />
+						<crits />
+					</far>
+					<aiming>
+						<icon>S</icon>
+						<pbar>small</pbar>
+						<command />
+						<distance />
+						<playerName />
+						<planeName />
+						<crits />
+					</aiming>
+					<effectivefire>
+						<icon>XL</icon>
+						<pbar>big</pbar>
+						<command />
+						<distance />
+						<playerName />
+						<planeName />
+						<crits />
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+						<distance />
+						<playerName />
+						<planeName />
+					</veryfar>
+					<far>
+						<icon>S</icon>
+						<command />
+						<distance />
+						<playerName />
+						<planeName />
+						<crits />
+					</far>
+					<aiming>
+						<command />
+						<icon>M</icon>
+						<distance />
+						<playerName />
+						<planeName />
+						<crits />
+					</aiming>
+					<effectivefire>
+						<command />
+						<icon>L</icon>
+						<distance />
+						<playerName />
+						<planeName />
+						<crits />
+					</effectivefire>
+				</ally>
+				<target>
+					<veryfar>
+						<icon>XL</icon>
+						<pbar>medium</pbar>
+						<playerName />
+						<planeName />
+						<command />
+						<distance />
+						<crits />
+					</veryfar>
+					<far>
+						<icon>XL</icon>
+						<pbar>medium</pbar>
+						<playerName />
+						<planeName />
+						<command />
+						<distance />
+						<crits />
+					</far>
+					<aiming>
+						<icon>XL</icon>
+						<pbar>big</pbar>
+						<distance />
+						<playerName />
+						<planeName />
+						<command />
+						<crits />
+					</aiming>
+					<effectivefire>
+						<icon>XXL</icon>
+						<pbar>big</pbar>
+						<distance />
+						<damage />
+						<playerName />
+						<planeName />
+						<command />
+						<crits />
+						<repair />
+					</effectivefire>
+				</target>
+				<flight>
+					<veryfar>
+						<icon>S</icon>
+						<command />
+						<distance />
+					</veryfar>
+					<far>
+						<icon>S</icon>
+						<command />
+						<distance />
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<command />
+						<distance />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<command />
+						<distance />
+					</effectivefire>
+				</flight>
+			</default>
+			<alt>
+				<enemy>
+					<veryfar>
+						<icon>S</icon>
+						<pbar>small</pbar>
+						<command />
+						<distance />
+						<planeName />
+						<playerName />
+						<crits />
+					</veryfar>
+					<far>
+						<icon>S</icon>
+						<pbar>small</pbar>
+						<command />
+						<distance />
+						<planeName />
+						<playerName />
+						<crits />
+						<objectName />
+					</far>
+					<aiming>
+						<icon>S</icon>
+						<pbar>small</pbar>
+						<distance />
+						<planeName />
+						<command />
+						<playerName />
+						<crits />
+						<objectName />
+					</aiming>
+					<effectivefire>
+						<icon>XL</icon>
+						<pbar>big</pbar>
+						<distance />
+						<planeName />
+						<command />
+						<playerName />
+						<crits />
+						<objectName />
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far>
+						<icon>M</icon>
+						<pbar>small</pbar>
+						<command />
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<pbar>small</pbar>
+						<repair />
+						<distance />
+						<planeName />
+						<command />
+						<playerName />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<pbar>medium</pbar>
+						<repair />
+						<distance />
+						<planeName />
+						<command />
+						<playerName />
+					</effectivefire>
+				</ally>
+				<target>
+					<veryfar>
+						<icon>XL</icon>
+						<pbar>medium</pbar>
+						<command />
+						<distance />
+						<planeName />
+						<playerName />
+						<crits />
+					</veryfar>
+					<far>
+						<icon>XL</icon>
+						<pbar>medium</pbar>
+						<command />
+						<distance />
+						<planeName />
+						<playerName />
+						<crits />
+					</far>
+					<aiming>
+						<icon>XL</icon>
+						<pbar>medium</pbar>
+						<repair />
+						<distance />
+						<planeName />
+						<playerName />
+						<command />
+						<crits />
+					</aiming>
+					<effectivefire>
+						<icon>XXL</icon>
+						<pbar>big</pbar>
+						<repair />
+						<distance />
+						<damage />
+						<planeName />
+						<playerName />
+						<command />
+						<crits />
+					</effectivefire>
+				</target>
+				<flight>
+					<veryfar>
+						<icon>M</icon>
+						<pbar>small</pbar>
+						<distance />
+						<planeName />
+						<command />
+						<playerName />
+					</veryfar>
+					<far>
+						<icon>M</icon>
+						<pbar>small</pbar>
+						<distance />
+						<planeName />
+						<command />
+						<playerName />
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<pbar>small</pbar>
+						<repair />
+						<distance />
+						<planeName />
+						<command />
+						<playerName />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<repair />
+						<distance />
+						<planeName />
+						<command />
+						<playerName />
+					</effectivefire>
+				</flight>
+			</alt>
+		</simple>
+		<orientation>
+			<default>
+				<enemy>
+					<veryfar />
+					<far>
+						<icon>S</icon>
+						<command />
+					</far>
+					<aiming>
+						<icon>S</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>S</icon>
+						<command />
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far>
+						<icon>S</icon>
+						<command />
+					</far>
+					<aiming>
+						<icon>S</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>S</icon>
+						<command />
+					</effectivefire>
+				</ally>
+				<target>
+					<veryfar>
+						<icon>S</icon>
+						<command />
+					</veryfar>
+					<far>
+						<icon>S</icon>
+						<command />
+					</far>
+					<aiming>
+						<icon>S</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>S</icon>
+						<command />
+					</effectivefire>
+				</target>
+				<flight>
+					<veryfar>
+					</veryfar>
+					<far>
+						<icon>M</icon>
+						<command />
+					</far>
+					<aiming>
+						<icon>L</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>XXL</icon>
+						<command />
+					</effectivefire>
+				</flight>
+			</default>
+			<alt>
+				<enemy>
+					<veryfar />
+					<far>
+						<icon>S</icon>
+						<command />
+					</far>
+					<aiming>
+						<icon>S</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>S</icon>
+						<command />
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far>
+						<icon>M</icon>
+						<class />
+						<command />
+					</far>
+					<aiming>
+						<icon>L</icon>
+						<class />
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>XXL</icon>
+						<class />
+						<command />
+					</effectivefire>
+				</ally>
+				<target>
+					<veryfar>
+						<icon>S</icon>
+						<command />
+					</veryfar>
+					<far>
+						<icon>S</icon>
+						<command />
+					</far>
+					<aiming>
+						<icon>S</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>S</icon>
+						<command />
+					</effectivefire>
+				</target>
+				<flight>
+					<veryfar>
+					</veryfar>
+					<far>
+						<icon>M</icon>
+						<class />
+						<command />
+					</far>
+					<aiming>
+						<icon>L</icon>
+						<class />
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>XXL</icon>
+						<class />
+						<command />
+					</effectivefire>
+				</flight>
+			</alt>
+		</orientation>
+		<center>
+			<default>
+				<enemy>
+					<veryfar />
+					<far />
+					<aiming>
+						<icon>S</icon>
+						<command />
+						<class />
+						<distance />
+					</aiming>
+					<effectivefire>
+						<icon>M</icon>
+						<command />
+						<class />
+						<distance />
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far />
+					<aiming>
+						<icon>M</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<command />
+					</effectivefire>
+				</ally>
+				<target>
+					<veryfar>
+					</veryfar>
+					<far>
+						<icon>XXL</icon>
+						<distance />
+						<command />
+						<playerName />
+					</far>
+					<aiming>
+						<icon>XXL</icon>
+						<distance />
+						<command />
+						<playerName />
+					</aiming>
+					<effectivefire>
+						<icon>XXL</icon>
+						<distance />
+						<command />
+						<playerName />
+					</effectivefire>
+				</target>
+				<flight>
+					<veryfar>
+						<icon>M</icon>
+						<command />
+					</veryfar>
+					<far>
+						<icon>M</icon>
+						<command />
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<command />
+					</effectivefire>
+				</flight>
+			</default>
+			<alt>
+				<enemy>
+					<veryfar>
+					</veryfar>
+					<far />
+					<aiming>
+						<icon>S</icon>
+						<class />
+						<command />
+						<distance />
+					</aiming>
+					<effectivefire>
+						<icon>M</icon>
+						<class />
+						<command />
+						<distance />
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far />
+					<aiming>
+						<icon>M</icon>
+						<class />
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<class />
+						<command />
+					</effectivefire>
+				</ally>
+				<target>
+					<veryfar>
+					</veryfar>
+					<far>
+						<class />
+						<icon>XXL</icon>
+						<distance />
+						<command />
+						<playerName />
+					</far>
+					<aiming>
+						<class />
+						<icon>XXL</icon>
+						<distance />
+						<command />
+					</aiming>
+					<effectivefire>
+						<class />
+						<icon>XXL</icon>
+						<distance />
+						<command />
+						<playerName />
+					</effectivefire>
+				</target>
+				<flight>
+					<veryfar>
+						<icon>M</icon>
+						<class />
+						<command />
+					</veryfar>
+					<far>
+						<icon>M</icon>
+						<class />
+						<command />
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<class />
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<class />
+						<command />
+					</effectivefire>
+				</flight>
+			</alt>
+		</center>
+	</avatars>
+	<teamObjects>
+		<simple>
+			<default>
+				<ally>
+					<veryfar />
+					<far />
+					<aiming />
+					<effectivefire>
+						<warning />
+						<command />
+						<icon>M</icon>
+					</effectivefire>
+				</ally>
+				<enemy>
+					<veryfar />
+					<far>
+						<icon>M</icon>
+					</far>
+					<aiming>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<pbar>medium</pbar>
+						<parts />
+						<damage />
+					</aiming>
+					<effectivefire>
+						<border>big</border>
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<command />
+						<distance />
+						<parts />
+						<objectName />
+						<warning />
+					</effectivefire>
+				</enemy>
+				<target>
+					<veryfar>
+					</veryfar>
+					<far />
+					<aiming>
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<warning />
+						<command />
+						<distance />
+						<parts />
+						<objectName />
+					</aiming>
+					<effectivefire>
+						<border>big</border>
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<command />
+						<distance />
+						<parts />
+						<objectName />
+						<warning />
+					</effectivefire>
+				</target>
+			</default>
+			<alt>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far />
+					<aiming />
+					<effectivefire>
+						<warning />
+						<command />
+						<icon>M</icon>
+					</effectivefire>
+				</ally>
+				<enemy>
+					<veryfar>
+					</veryfar>
+					<far>
+						<icon>M</icon>
+					</far>
+					<aiming>
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<warning />
+						<command />
+						<distance />
+						<parts />
+						<objectName />
+					</aiming>
+					<effectivefire>
+						<border>big</border>
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<command />
+						<distance />
+						<parts />
+						<objectName />
+						<warning />
+					</effectivefire>
+				</enemy>
+				<target>
+					<veryfar>
+					</veryfar>
+					<far>
+					</far>
+					<aiming>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<distance />
+						<border>small</border>
+						<objectName />
+					</aiming>
+					<effectivefire>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<damage />
+						<distance />
+						<objectName />
+						<parts />
+						<border>big</border>
+					</effectivefire>
+				</target>
+			</alt>
+		</simple>
+		<bomberScope>
+			<default>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far>
+					</far>
+					<aiming>
+					</aiming>
+					<effectivefire>
+					</effectivefire>
+				</ally>
+				<enemy>
+					<veryfar>
+						<warning />
+						<command />
+						<icon>M</icon>
+					</veryfar>
+					<far>
+						<warning />
+						<command />
+						<icon>M</icon>
+						<parts />
+					</far>
+					<aiming>
+						<warning />
+						<command />
+						<parts />
+					</aiming>
+					<effectivefire>
+						<warning />
+						<command />
+						<parts />
+					</effectivefire>
+				</enemy>
+				<target>
+					<veryfar>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<border>small</border>
+					</veryfar>
+					<far>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<border>small</border>
+					</far>
+					<aiming>
+						<warning />
+						<command />
+						<parts />
+						<border>small</border>
+					</aiming>
+					<effectivefire>
+						<warning />
+						<command />
+						<parts />
+						<border>small</border>
+					</effectivefire>
+				</target>
+			</default>
+			<alt>
+				<ally>
+					<veryfar>
+						<warning />
+						<command />
+						<icon>M</icon>
+					</veryfar>
+					<far>
+						<warning />
+						<command />
+						<icon>M</icon>
+					</far>
+					<aiming>
+						<warning />
+						<command />
+						<icon>M</icon>
+					</aiming>
+					<effectivefire>
+						<warning />
+						<command />
+						<icon>M</icon>
+					</effectivefire>
+				</ally>
+				<enemy>
+					<veryfar>
+						<warning />
+						<command />
+						<icon>M</icon>
+						<pbar>medium</pbar>
+						<objectName />
+					</veryfar>
+					<far>
+						<warning />
+						<command />
+						<icon>M</icon>
+						<pbar>medium</pbar>
+						<objectName />
+					</far>
+					<aiming>
+						<warning />
+						<command />
+						<icon>M</icon>
+						<pbar>medium</pbar>
+						<objectName />
+					</aiming>
+					<effectivefire>
+						<warning />
+						<command />
+						<icon>M</icon>
+						<pbar>medium</pbar>
+						<objectName />
+					</effectivefire>
+				</enemy>
+				<target>
+					<veryfar>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<damage />
+						<objectName />
+						<border>small</border>
+					</veryfar>
+					<far>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<damage />
+						<objectName />
+						<border>small</border>
+					</far>
+					<aiming>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<damage />
+						<objectName />
+						<border>small</border>
+					</aiming>
+					<effectivefire>
+						<warning />
+						<command />
+						<icon>L</icon>
+						<pbar>big</pbar>
+						<damage />
+						<objectName />
+						<border>small</border>
+					</effectivefire>
+				</target>
+			</alt>
+		</bomberScope>
+	</teamObjects>
+	<bombers>
+		<simple>
+			<default>
+				<enemy>
+					<veryfar>
+					</veryfar>
+					<far>
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<distance />
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<pbar>medium</pbar>
+						<distance />
+						<command />
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far>
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<command />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<command />
+					</effectivefire>
+				</ally>
+				<target>
+					<veryfar>
+					</veryfar>
+					<far>
+					</far>
+					<aiming>
+						<icon>L</icon>
+						<distance />
+						<command />
+						<playerName />
+					</aiming>
+					<effectivefire>
+						<icon>XL</icon>
+						<pbar>big</pbar>
+						<damage />
+						<distance />
+						<command />
+						<playerName />
+						<crits />
+					</effectivefire>
+				</target>
+			</default>
+			<alt>
+				<enemy>
+					<veryfar>
+					</veryfar>
+					<far>
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<pbar>small</pbar>
+						<distance />
+						<command />
+						<playerName />
+						<planeName />
+						<timer />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<pbar>medium</pbar>
+						<distance />
+						<command />
+						<planeName />
+						<playerName />
+						<timer />
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+					</veryfar>
+					<far>
+					</far>
+					<aiming>
+						<icon>M</icon>
+						<pbar>medium</pbar>
+						<distance />
+						<command />
+						<planeName />
+						<playerName />
+						<timer />
+					</aiming>
+					<effectivefire>
+						<icon>L</icon>
+						<pbar>medium</pbar>
+						<distance />
+						<command />
+						<planeName />
+						<playerName />
+						<timer />
+					</effectivefire>
+				</ally>
+				<target>
+					<veryfar>
+					</veryfar>
+					<far>
+					</far>
+					<aiming>
+						<icon>L</icon>
+						<pbar>small</pbar>
+						<distance />
+						<command />
+						<planeName />
+						<playerName />
+						<timer />
+					</aiming>
+					<effectivefire>
+						<icon>XL</icon>
+						<pbar>big</pbar>
+						<damage />
+						<distance />
+						<command />
+						<planeName />
+						<playerName />
+						<timer />
+						<crits />
+					</effectivefire>
+				</target>
+			</alt>
+		</simple>
+		<airStrike>
+			<default>
+				<enemy>
+					<veryfar>
+						<icon>M</icon>
+						<command />
+					</veryfar>
+					<far>
+						<icon>L</icon>
+						<command />
+					</far>
+					<aiming>
+					</aiming>
+					<effectivefire>
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+						<icon>M</icon>
+						<command />
+					</veryfar>
+					<far>
+						<icon>L</icon>
+						<command />
+					</far>
+					<aiming>
+					</aiming>
+					<effectivefire>
+					</effectivefire>
+				</ally>
+			</default>
+			<alt>
+				<enemy>
+					<veryfar>
+						<icon>M</icon>
+						<distance />
+						<command />
+						<timer />
+						<type />
+					</veryfar>
+					<far>
+						<icon>L</icon>
+						<distance />
+						<command />
+						<timer />
+						<type />
+					</far>
+					<aiming>						
+					</aiming>
+					<effectivefire>						
+					</effectivefire>
+				</enemy>
+				<ally>
+					<veryfar>
+						<icon>M</icon>
+						<distance />
+						<command />
+						<timer />
+						<type />
+					</veryfar>
+					<far>
+						<icon>L</icon>
+						<distance />
+						<command />
+						<timer />
+						<type />
+					</far>
+					<aiming>
+					</aiming>
+					<effectivefire>
+					</effectivefire>
+				</ally>
+			</alt>
+		</airStrike>
+	</bombers>
+</config>

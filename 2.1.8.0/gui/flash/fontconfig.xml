@@ -1,0 +1,29 @@
+<fontconfig.xml>
+ <config>
+  <name>All</name>
+  <fontlib>fonts_ja.swf</fontlib>
+  <map>
+   <alias>
+    <embedded>$TahomaBold</embedded>
+    <runtime>Segoe UI Small Capital in Small</runtime>
+    <type>Bold</type>
+   </alias>
+   <alias>
+    <embedded>$TahomaRegular</embedded>
+    <runtime>Segoe UI Small Capital in Small</runtime>
+   </alias>
+   <alias>
+    <embedded>$ZurichCond</embedded>
+    <runtime>Segoe UI</runtime>
+   </alias>
+   <alias>
+    <embedded>$ZurichCondBold</embedded>
+    <runtime>Calibri</runtime>
+   </alias>
+   <alias>
+    <embedded>$TextFont</embedded>
+    <runtime>Segoe UI Small Capital in Small</runtime>
+   </alias>
+  </map>
+ </config>
+</fontconfig.xml>
